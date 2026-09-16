@@ -1,0 +1,14 @@
+C:\Users\jonas.ssilva11\source\repos\senac\sistemaCadastro\bin\Debug\net9.0\sistemaCadastro.exe
+C:\Users\jonas.ssilva11\source\repos\senac\sistemaCadastro\bin\Debug\net9.0\sistemaCadastro.deps.json
+C:\Users\jonas.ssilva11\source\repos\senac\sistemaCadastro\bin\Debug\net9.0\sistemaCadastro.runtimeconfig.json
+C:\Users\jonas.ssilva11\source\repos\senac\sistemaCadastro\bin\Debug\net9.0\sistemaCadastro.dll
+C:\Users\jonas.ssilva11\source\repos\senac\sistemaCadastro\bin\Debug\net9.0\sistemaCadastro.pdb
+C:\Users\jonas.ssilva11\source\repos\senac\sistemaCadastro\obj\Debug\net9.0\sistemaCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas.ssilva11\source\repos\senac\sistemaCadastro\obj\Debug\net9.0\sistemaCadastro.AssemblyInfoInputs.cache
+C:\Users\jonas.ssilva11\source\repos\senac\sistemaCadastro\obj\Debug\net9.0\sistemaCadastro.AssemblyInfo.cs
+C:\Users\jonas.ssilva11\source\repos\senac\sistemaCadastro\obj\Debug\net9.0\sistemaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\jonas.ssilva11\source\repos\senac\sistemaCadastro\obj\Debug\net9.0\sistemaCadastro.dll
+C:\Users\jonas.ssilva11\source\repos\senac\sistemaCadastro\obj\Debug\net9.0\refint\sistemaCadastro.dll
+C:\Users\jonas.ssilva11\source\repos\senac\sistemaCadastro\obj\Debug\net9.0\sistemaCadastro.pdb
+C:\Users\jonas.ssilva11\source\repos\senac\sistemaCadastro\obj\Debug\net9.0\sistemaCadastro.genruntimeconfig.cache
+C:\Users\jonas.ssilva11\source\repos\senac\sistemaCadastro\obj\Debug\net9.0\ref\sistemaCadastro.dll
